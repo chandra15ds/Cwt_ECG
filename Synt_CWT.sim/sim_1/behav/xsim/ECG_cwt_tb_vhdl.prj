@@ -1,0 +1,36 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Synt_CWT.srcs/sources_1/new/CWT.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/CWT_convolution_01.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/CWT_convolution_02.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/CWT_convolution_03.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/CWT_convolution_04.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/CWT_convolution_05.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/CWT_convolution_06.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/CWT_convolution_07.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/CWT_convolution_08.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/ECG_cwt.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/Morlet_s1.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/Morlet_s2.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/Morlet_s3.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/Morlet_s4.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/Morlet_s5.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/Morlet_s6.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/Morlet_s7.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/Morlet_s8.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/input_mem.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/lineBuffer.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/proc_element.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/signal_control.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/signal_storage_01.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/signal_storage_02.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/signal_storage_03.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/signal_storage_04.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/signal_storage_05.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/signal_storage_06.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/signal_storage_07.vhd" \
+"../../../../Synt_CWT.srcs/sources_1/new/signal_storage_08.vhd" \
+"../../../../Synt_CWT.srcs/sim_1/new/ECG_cwt_tb.vhd" \
+
+# Do not sort compile order
+nosort
